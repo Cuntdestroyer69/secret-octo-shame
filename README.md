@@ -4,3 +4,10 @@ System.Windows.Forms.MessageBox.Show("Fick mich!!! :D");
 
 # secret-octo-shame
 Neues Erotikspiel
+
+for(i=1;i<Kommen;i++)
+{
+  Sex = Chantal + Octo;
+  
+  PervertSex = Convert.ToPervert(Sex+(5*Octo));
+}
